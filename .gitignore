@@ -1,0 +1,24 @@
+# CLion / IntelliJ
+.idea/
+*.iml
+
+# CMake build folders
+cmake-build-*/
+build/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Qt / moc / rcc / ui generated (varsa)
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# OS
+.DS_Store
+Thumbs.db
